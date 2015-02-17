@@ -1,3 +1,6 @@
+This is my "private" fork of KineticJS used to power my website at http://andrew.arace.info
+
+
 ##Mothballed
 
 Hi all! I will no longer be maintaining this repo or the official KineticJS website because I have moved onto other ventures and projects.  The latest version of KineticJS, 5.1.0, is very solid and can still be used in production applications.  Please feel free to fork the repo if you'd like to make changes.
